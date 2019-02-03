@@ -13,5 +13,8 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
 
 - Structure planned of the custom Rabbit-Logger
 
+### Day 3 - 2019-02-03
+
+- Implementation of the Publish/Subscribe tutorial of RabbitMQ
 
 
