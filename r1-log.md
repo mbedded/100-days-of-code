@@ -17,4 +17,10 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
 
 - Implementation of the Publish/Subscribe tutorial of RabbitMQ
 
+### Day 4 - 2019-02-04
+
+- Repository created for library and website
+  - Libary: https://github.com/mbedded/RabbitLogger.Library
+  - Website: https://github.com/mbedded/RabbitLogger.Web
+
 
