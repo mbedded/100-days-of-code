@@ -23,4 +23,9 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
   - Libary: https://github.com/mbedded/RabbitLogger.Library
   - Website: https://github.com/mbedded/RabbitLogger.Web
 
+### Day 5 - 2019-02-06
+
+- RabbitMQ-package added to library project
+- Appveyor added to RabbitMQ repository
+- Read documentation of AMQP on RabbitMQ-Website
 
