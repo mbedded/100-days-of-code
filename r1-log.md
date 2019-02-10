@@ -29,3 +29,7 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
 - Appveyor added to RabbitMQ repository
 - Read documentation of AMQP on RabbitMQ-Website
 
+### Day 5 1/2- 2019-02-7
+
+- Read some chapters of "Learn Social Engineering"
+
