@@ -38,3 +38,8 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
 - Implementation of Rabbit-Logger enhanced
 - Test implementation of publishing a first log-message to rabbit
  
+### Day 7 - 2019-02-11
+
+- Trying to receive messages from queue within my console-project.
+The console project is used to test and develop the library.
+
