@@ -43,3 +43,7 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Friday, 2019].
 - Trying to receive messages from queue within my console-project.
 The console project is used to test and develop the library.
 
+### Day 8 - 2019-02-13
+
+- No coding today. Instead i spent the time to do online courses about Wordpress
+
