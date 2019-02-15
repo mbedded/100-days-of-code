@@ -53,4 +53,5 @@ The console project is used to test and develop the library.
 
 ### Day 10 - 2019-02-15
 
-- 
+- Bug tested where i was unable to receive messages. Error was caused because of DLL was used in one project to receive and send messages at the same time
+- Experience gained about exchange, queues and bindings to create a durable log-queue
