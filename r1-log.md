@@ -47,3 +47,10 @@ The console project is used to test and develop the library.
 
 - No coding today. Instead i spent the time to do online courses about Wordpress
 
+### Day 9 - 2019-02-14
+
+- Preparing an article about build servers. They advantages and how to use them
+
+### Day 10 - 2019-02-15
+
+- 
