@@ -61,3 +61,34 @@ The console project is used to test and develop the library.
 - Writing a draft for an article about Docker-Basics
 - Reading many articles about Docker
 
+### Day 12 - 2019-02-20
+
+- Playing around with RabbitMQ to resolve my bug that written messages are not stored within a queue
+
+### Day 13 - 2019-02-22
+
+- Optimizing some methods of my RabbitMQ-Logger library
+
+### Day 14 - 2019-02-25
+
+- Article about Buildservers written
+
+### Day 15 - 2019-02-26
+
+- Installing Zabbix on a Raspberry PI
+- Replace Icinga and configure Zabbix
+
+### Day 16 - 2019-02-27
+
+- Missing devices added
+- Remote agents installed
+- Monitoring configured
+
+### Day 17 - 2019-02-28
+
+- Playing around with the configuration possibilities of Zabbix
+
+### Day 18 - 2019-03-01
+
+- 
+
