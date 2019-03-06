@@ -88,7 +88,12 @@ The console project is used to test and develop the library.
 
 - Playing around with the configuration possibilities of Zabbix
 
-### Day 18 - 2019-03-01
+### Day 18 - 2019-03-05
 
-- 
+- Library extended to use Classes for message exchange
+- Queue and Exchange can be defined by parameter
+
+### Day 19 - 2019-03-06
+
+- Investigating some issues with my Raspberries and how to turn LEDs on and off.
 
