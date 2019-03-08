@@ -97,3 +97,11 @@ The console project is used to test and develop the library.
 
 - Investigating some issues with my Raspberries and how to turn LEDs on and off.
 
+### Day 20 - 2019-03-07
+
+- Investigating python and SSH to create an automatic script for Mysql and SFTP dumps
+
+### Day 21 - 2019-03-08
+
+- Creating a script to connect via SSH to a remote server and create a backup via tar
+- Backup file is downloaded via SFTP
