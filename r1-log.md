@@ -105,3 +105,7 @@ The console project is used to test and develop the library.
 
 - Creating a script to connect via SSH to a remote server and create a backup via tar
 - Backup file is downloaded via SFTP
+
+### Day 22 - 2019-03-11
+
+- Improving the backup script to move the backup.tar to a network drive
