@@ -109,3 +109,8 @@ The console project is used to test and develop the library.
 ### Day 22 - 2019-03-11
 
 - Improving the backup script to move the backup.tar to a network drive
+
+### Day 23 - 2019-03-13
+
+- Assembling my new computer
+
