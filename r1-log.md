@@ -114,3 +114,20 @@ The console project is used to test and develop the library.
 
 - Assembling my new computer
 
+### Day 24 - 2019-03-14 to 2019-03-18
+
+- These days i was working to assembly my computer
+- No 'real' coding was done. It was more like installing OS, drivers and software
+- I don't want to fill this challenge with non-code related stuff so these days are added as one day
+
+### Day 25 - 2019-03-19
+
+- Configuring Zabbix to monitor my local hosted websites
+- Added "dependabot" to some Github repositories and testing
+
+### Day 26 - 2019-03-20
+
+- Some cleanup in Bugbeard and HomeMediaManager repositories
+- Tried to update Gitea from 1.7.3 -> 1.8
+
+
