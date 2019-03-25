@@ -130,4 +130,9 @@ The console project is used to test and develop the library.
 - Some cleanup in Bugbeard and HomeMediaManager repositories
 - Tried to update Gitea from 1.7.3 -> 1.8
 
+### Day 27 - 2019-03-25
+
+- Created and added my GPG keys to my git-repositories
+- Minor adjustements of Bugbeard
+
 
