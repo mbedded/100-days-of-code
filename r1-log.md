@@ -135,4 +135,13 @@ The console project is used to test and develop the library.
 - Created and added my GPG keys to my git-repositories
 - Minor adjustements of Bugbeard
 
+### Day 28 - 2019-03-27
+
+- Installed Linux on my Computer again
+- Struggling with drivers etc to get everything smooth and running
+
+### Day 29- 2019-03-28
+
+- Still setup my environment
+
 
