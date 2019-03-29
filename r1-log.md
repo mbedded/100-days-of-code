@@ -140,8 +140,11 @@ The console project is used to test and develop the library.
 - Installed Linux on my Computer again
 - Struggling with drivers etc to get everything smooth and running
 
-### Day 29- 2019-03-28
+### Day 29 - 2019-03-28
 
 - Still setup my environment
 
+### Day 30 - 2019-03-29
 
+- Worked on Rabbit-Logger again
+- Minor fixes and setup of my development environment (e.g. settings for formatting)
