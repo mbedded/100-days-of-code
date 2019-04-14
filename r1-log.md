@@ -148,3 +148,24 @@ The console project is used to test and develop the library.
 
 - Worked on Rabbit-Logger again
 - Minor fixes and setup of my development environment (e.g. settings for formatting)
+
+### Day 31 - 2019-04-01
+
+- "Application ID" added to rabbit logger
+- Fix of Appveyor/Nuget so my packages get automatically updated
+
+### Day 32 - 2019-04-12
+
+- Trying to get Nextcloud running on Raspberry
+
+### Day 33 - 2019-04-13
+
+- Testing performance of Nextcloud on Raspberry
+- Minor changes to BugBeard to work with rider
+- Packages merged from dependabot
+
+### Day 34 - 2019-04-14
+
+- Trying to get .NET Core running on Raspberry. Deployed a "hello world" application
+- Many organizational things and comparison of some external hostings
+
